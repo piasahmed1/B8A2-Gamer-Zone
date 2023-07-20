@@ -1,0 +1,256 @@
+/* This is nav style section  */
+
+.nav-logo {
+    display: flex;
+    gap: 21px;
+    align-items: center;
+
+}
+
+.nav-logo img {
+    width: 50px;
+
+}
+
+.nav-logo p {
+    font-size: 28px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-content a {
+    text-decoration: none;
+    margin-left: 22px;
+}
+
+.nav-content {
+    display: flex;
+
+}
+
+/* banner style create banner */
+
+.goat h2 {
+    font-size: 49PX;
+    margin-top: 17px;
+    background-image: linear-gradient(to bottom, #f948b2ce, rgba(100, 27, 173, 0.829));
+    color: transparent;
+    -webkit-background-clip: text;
+}
+
+goat p {
+    color: #534C64;
+}
+
+.section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section {
+    background-image: url(..//images/Group\ 14.png);
+}
+
+.sss {
+    background-color: rgba(4, 2, 35, 0.1);
+    border: 0px solid rgba(128, 128, 128, 0.932);
+    gap: 10px;
+    display: flex;
+    margin-left: 13px;
+    list-style: none;
+}
+
+.parta {
+    display: flex;
+    align-items: center;
+}
+
+.partb {
+    display: flex;
+    align-items: center;
+}
+
+.partc {
+    display: flex;
+    align-items: center;
+}
+
+.partd {
+    display: flex;
+    align-items: center;
+}
+
+.parte {
+    display: flex;
+    align-items: center;
+}
+
+.rules-section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.partf {
+    display: flex;
+    align-items: center;
+}
+
+.partg {
+    display: flex;
+    align-items: center;
+}
+
+.parth {
+    display: flex;
+    align-items: center;
+}
+
+.parti {
+    display: flex;
+    align-items: center;
+}
+
+
+/* This is our website main section */
+
+
+.our-pictures {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 39px;
+    gap: 23px;
+    margin-left: 502px;
+    margin-right: 502px;
+
+}
+
+/* some style pictures */
+
+.couple-pic {
+    display: flex;
+    justify-content: space-around;
+
+
+    margin-top: 39px;
+}
+
+.couple-pic h1 {
+    font-size: 49px;
+}
+
+.ctn {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.play {
+    color: #ff42a4cc;
+}
+
+.pera {
+    color: #534c64dc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+}
+
+.putul img {
+    position: relative;
+    bottom: 220px;
+    margin-left: -160px;
+}
+
+.controller {
+    border: 0px solid rgba(128, 128, 128, 0.877);
+    background-color: rgba(245, 245, 220, 0.863);
+    margin-bottom: 250px;
+}
+
+.headmaster {
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+/* This is footer style section */
+
+
+.footer-boss {
+    background-color: #0b0223e0;
+    padding: 32px;
+}
+
+.footer-one {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+    margin-left: 565px;
+}
+
+.footer-one p {
+    font-size: 26px;
+
+}
+
+.footer-one img {
+    width: 72px;
+}
+
+
+.our-section {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: rgba(255, 255, 255, 0.747);
+    margin-left: 290px;
+    margin-right: 290px;
+    font-size: 12px;
+}
+
+.png-icon {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+
+
+}
+
+.facebook-photo {
+    color: blue;
+    background-color: white;
+
+}
+
+.twitter-photo {
+    color: white;
+}
+
+.youtube-photo {
+    color: red;
+    background-color: white;
+}
+
+.underline {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 30px;
+    color: gainsboro;
+    font-size: 10px;
+}
+
+.footer-section h5 {
+    text-align: center;
+    color: gainsboro;
+    font-size: 10px;
+}

@@ -254,3 +254,47 @@ goat p {
     color: gainsboro;
     font-size: 10px;
 }
+
+
+@media screen and (max-width: 576px) {
+
+    .nav,
+    .nav-content,
+    .section,
+    .four-pic,
+    .couple-pic,
+    .controller,
+    .headmaster,
+    .principal,
+    .footer-boss {
+        padding: 22px;
+    }
+
+    .nav,
+    .nav-content,
+    .section,
+    .four-pic,
+    .couple-pic,
+    .controller,
+    .headmaster,
+    .principal,
+    .footer-boss {
+        flex-direction: column;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:960px) {
+
+
+    .nav,
+    .nav-content,
+    .section,
+    .four-pic,
+    .couple-pic,
+    .controller,
+    .headmaster,
+    .principal,
+    .footer-boss {
+        flex-direction: column
+    }
+}
